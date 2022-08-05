@@ -7,5 +7,6 @@ public class Test01 {
         System.out.println("master test");
         System.out.println("hot-fix first");
         System.out.println("hot-fix first");
+        System.out.println("hot-fix first");
     }
 }
